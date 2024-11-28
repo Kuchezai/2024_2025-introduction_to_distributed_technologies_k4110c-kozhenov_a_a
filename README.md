@@ -43,7 +43,7 @@ minikube start
 
 ![minikube](./screenshots/minikube%20start.png)
 
-#### 4. Создание манифеста:
+### 4. Создание манифеста:
 
 ```bash
 nano first-pod.yaml
