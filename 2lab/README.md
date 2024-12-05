@@ -18,7 +18,7 @@ ____
 
 ## Ход работы
 
-### 1. Подятнуть образ ifilyaninitmo/itdt-contained-frontend:master и проверить корректность операции:
+### 1. Подтянуть образ `ifilyaninitmo/itdt-contained-frontend:master` и проверить корректность операции:
 
 ![1](./screenshots/1%20docker%20images.png)
 
