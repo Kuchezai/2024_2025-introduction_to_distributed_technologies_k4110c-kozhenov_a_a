@@ -4,9 +4,9 @@ Course: [Introduction to distributed technologies](https://github.com/itmo-ict-f
 Year: 2024/2025\
 Group: K4110C\
 Author: Kozhenov Artyom Andreevich\
-Lab: #3\
-Date of create: 1.12.2024\
-Date of finished: 5.12.2024
+Lab: #4\
+Date of create: 17.12.2024\
+Date of finished: 19.12.2024
 
 
 ____
@@ -108,10 +108,10 @@ spec:
 
 ![9](./screenshots/browser.png)
 
-### 9. Найдем адреса подов:
+### 9. Найти адреса подов:
 ![9](./screenshots//get%20pods.png)
 
-### 10. Проверка доступности подов внутри сети:
+### 10. Проверить доступность подов внутри сети:
 ![10](./screenshots/ping.png)
 
 ### Схема:
